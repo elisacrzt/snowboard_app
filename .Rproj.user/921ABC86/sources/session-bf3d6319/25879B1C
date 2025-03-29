@@ -1,0 +1,27 @@
+{
+    "id": "25879B1C",
+    "path": "~/Documents/DU- R studio/snowboard_app/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "790003840",
+    "contents": "",
+    "dirty": false,
+    "created": 1743071527835.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "157,61",
+        "scrollLine": "145",
+        "disableDependencyDiscovery": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1743234403,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1743234403362,
+    "read_only": false,
+    "read_only_alternatives": []
+}
